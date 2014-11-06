@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvZero" format="1">
+  <advance width="537"/>
+  <outline>
+    <contour>
+      <point x="35" y="287" type="curve"/>
+      <point x="35" y="203"/>
+      <point x="125" y="58"/>
+      <point x="221" y="58" type="curve" smooth="yes"/>
+      <point x="341" y="58"/>
+      <point x="509" y="188"/>
+      <point x="519" y="307" type="curve"/>
+      <point x="518" y="432"/>
+      <point x="483" y="525"/>
+      <point x="406" y="610" type="curve"/>
+      <point x="342" y="624"/>
+      <point x="268" y="597"/>
+      <point x="220" y="574" type="curve"/>
+      <point x="144" y="529"/>
+      <point x="35" y="380"/>
+    </contour>
+    <contour>
+      <point x="339" y="515" type="curve"/>
+      <point x="378" y="452"/>
+      <point x="394" y="381"/>
+      <point x="384" y="320" type="curve"/>
+      <point x="363" y="241"/>
+      <point x="310" y="188"/>
+      <point x="237" y="159" type="curve"/>
+      <point x="198" y="196"/>
+      <point x="179" y="245"/>
+      <point x="177" y="304" type="curve"/>
+      <point x="204" y="392"/>
+      <point x="245" y="456"/>
+      <point x="300" y="504" type="curve"/>
+      <point x="315" y="512"/>
+      <point x="327" y="514"/>
+    </contour>
+  </outline>
+</glyph>

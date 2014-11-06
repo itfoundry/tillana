@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="dvP_T_YA">
+  <advance width="1264" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="1078" y="391" />
+      <point x="1021" y="308" />
+      <point x="916" y="230" />
+      <point type="curve" x="852" y="212" />
+      <point x="821" y="212" />
+      <point x="777" y="247" />
+      <point type="curve" x="781" y="276" />
+      <point x="824" y="332" />
+      <point x="1019" y="429" />
+      <point type="curve" x="1019" y="522" />
+      <point x="1019" y="538" />
+      <point x="1011" y="554" />
+      <point type="curve" x="996" y="569" />
+      <point type="line" x="1117" y="569" />
+    </contour>
+    <contour>
+      <point type="line" x="162" y="246" />
+      <point x="175" y="322" />
+      <point x="193" y="388" />
+      <point type="curve" x="211" y="452" />
+      <point type="line" x="279" y="569" />
+      <point type="line" x="703" y="569" />
+      <point x="700" y="567" />
+      <point x="697" y="564" />
+      <point type="curve" x="694" y="562" />
+      <point x="679" y="529" />
+      <point x="708" y="496" />
+      <point type="curve" x="761" y="483" />
+      <point x="791" y="504" />
+      <point x="820" y="520" />
+      <point type="curve" x="851" y="523" />
+      <point x="872" y="525" />
+      <point x="896" y="519" />
+      <point type="curve" x="905" y="505" />
+      <point x="898" y="428" />
+      <point x="758" y="376" />
+      <point type="curve" x="680" y="324" />
+      <point x="589" y="390" />
+      <point x="455" y="397" />
+      <point type="curve" x="359" y="367" />
+      <point x="336" y="357" />
+      <point x="319" y="340" />
+      <point type="curve" x="307" y="318" />
+      <point x="260" y="289" />
+      <point x="216" y="266" />
+      <point type="curve" x="172" y="241" />
+    </contour>
+    <contour>
+      <point type="line" x="1407" y="623" />
+      <point type="line" x="1279" y="623" />
+      <point x="1255" y="649" />
+      <point x="1214" y="659" />
+      <point type="curve" x="1136" y="653" />
+      <point type="line" x="1129" y="623" />
+      <point type="line" x="20" y="623" />
+      <point x="5" y="613" />
+      <point x="-5" y="597" />
+      <point type="curve" x="-10" y="584" />
+      <point type="line" x="5" y="569" />
+      <point type="line" x="120" y="569" />
+      <point x="82" y="452" />
+      <point x="53" y="348" />
+      <point type="curve" x="28" y="230" />
+      <point x="40" y="180" />
+      <point x="111" y="151" />
+      <point type="curve" x="175" y="149" />
+      <point x="205" y="170" />
+      <point x="243" y="197" />
+      <point type="curve" x="283" y="226" />
+      <point x="307" y="142" />
+      <point x="367" y="60" />
+      <point type="curve" x="443" y="-2" />
+      <point x="486" y="12" />
+      <point x="505" y="34" />
+      <point type="curve" x="503" y="60" />
+      <point x="447" y="117" />
+      <point x="414" y="174" />
+      <point type="curve" x="404" y="240" />
+      <point x="407" y="254" />
+      <point x="413" y="268" />
+      <point type="curve" x="423" y="280" />
+      <point x="482" y="311" />
+      <point x="571" y="307" />
+      <point type="curve" x="630" y="267" />
+      <point type="line" x="630" y="263" />
+      <point x="630" y="201" />
+      <point x="741" y="120" />
+      <point type="curve" x="806" y="120" />
+      <point x="865" y="120" />
+      <point x="988" y="202" />
+      <point type="curve" x="1068" y="288" />
+      <point type="line" x="1079" y="277" />
+      <point type="line" x="1037" y="210" />
+      <point type="line" x="997" y="41" />
+      <point x="1045" y="1" />
+      <point x="1117" y="-10" />
+      <point type="curve" x="1158" y="11" />
+      <point type="line" x="1200" y="431" />
+      <point type="line" x="1269" y="569" />
+      <point type="line" x="1392" y="569" />
+      <point x="1407" y="579" />
+      <point x="1415" y="595" />
+      <point type="curve" x="1419" y="610" />
+    </contour>
+  </outline>
+</glyph>

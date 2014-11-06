@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvmO" format="1">
+  <advance width="232"/>
+  <outline>
+    <contour>
+      <point x="266" y="618" type="line"/>
+      <point x="247" y="647"/>
+      <point x="215" y="654"/>
+      <point x="148" y="651" type="curve"/>
+      <point x="5" y="32" type="line"/>
+      <point x="35" y="4"/>
+      <point x="82" y="-8"/>
+      <point x="124" y="5" type="curve"/>
+      <point x="181" y="436" type="line"/>
+    </contour>
+    <contour>
+      <point x="360" y="571" type="line"/>
+      <point x="374" y="580"/>
+      <point x="382" y="595"/>
+      <point x="386" y="609" type="curve"/>
+      <point x="374" y="621" type="line"/>
+      <point x="27" y="621" type="line"/>
+      <point x="13" y="612"/>
+      <point x="5" y="597"/>
+      <point x="0" y="584" type="curve"/>
+      <point x="13" y="571" type="line"/>
+    </contour>
+    <contour>
+      <point x="71" y="857" type="line"/>
+      <point x="121" y="804"/>
+      <point x="149" y="758"/>
+      <point x="184" y="683" type="curve"/>
+      <point x="205" y="683"/>
+      <point x="222" y="691"/>
+      <point x="225" y="703" type="curve"/>
+      <point x="188" y="798"/>
+      <point x="104" y="958"/>
+      <point x="41" y="958" type="curve" smooth="yes"/>
+      <point x="2" y="958"/>
+      <point x="-39" y="935"/>
+      <point x="-64" y="907" type="curve"/>
+      <point x="-68" y="867"/>
+      <point x="-38" y="838"/>
+      <point x="22" y="819" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

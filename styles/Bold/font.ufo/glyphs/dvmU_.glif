@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvmU" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="-103" y="6" type="move" name="_blwm"/>
+    </contour>
+    <contour>
+      <point x="-187" y="-116" type="curve"/>
+      <point x="-196" y="-161"/>
+      <point x="-257" y="-214"/>
+      <point x="-330" y="-233" type="curve"/>
+      <point x="-406" y="-195"/>
+      <point x="-438" y="-131"/>
+      <point x="-459" y="-58" type="curve"/>
+      <point x="-519" y="-42"/>
+      <point x="-572" y="-73"/>
+      <point x="-602" y="-140" type="curve"/>
+      <point x="-560" y="-217"/>
+      <point x="-430" y="-302"/>
+      <point x="-336" y="-303" type="curve"/>
+      <point x="-222" y="-302"/>
+      <point x="-53" y="-204"/>
+      <point x="-53" y="-123" type="curve"/>
+      <point x="-53" y="-74"/>
+      <point x="-148" y="-19"/>
+      <point x="-218" y="-19" type="curve" smooth="yes"/>
+      <point x="-262" y="-19"/>
+      <point x="-320" y="-31"/>
+      <point x="-370" y="-64" type="curve"/>
+      <point x="-382" y="-102"/>
+      <point x="-354" y="-147"/>
+      <point x="-286" y="-162" type="curve"/>
+      <point x="-257" y="-132"/>
+      <point x="-235" y="-116"/>
+      <point x="-207" y="-106" type="curve"/>
+      <point x="-197" y="-107"/>
+      <point x="-190" y="-111"/>
+    </contour>
+  </outline>
+</glyph>

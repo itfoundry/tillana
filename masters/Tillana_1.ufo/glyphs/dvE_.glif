@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvE" format="1">
+  <advance width="699"/>
+  <outline>
+    <contour>
+      <point x="827" y="565" type="line"/>
+      <point x="844" y="577"/>
+      <point x="852" y="595"/>
+      <point x="856" y="612" type="curve"/>
+      <point x="844" y="627" type="line"/>
+      <point x="2" y="627" type="line"/>
+      <point x="-15" y="615"/>
+      <point x="-27" y="597"/>
+      <point x="-35" y="584" type="curve"/>
+      <point x="-15" y="565" type="line"/>
+    </contour>
+    <contour>
+      <point x="240" y="185" type="line"/>
+      <point x="296" y="299"/>
+      <point x="338" y="442"/>
+      <point x="342" y="605" type="curve"/>
+      <point x="127" y="580" type="line"/>
+      <point x="147" y="426" type="line"/>
+      <point x="125" y="340"/>
+      <point x="85" y="262"/>
+      <point x="44" y="187" type="curve"/>
+      <point x="39" y="105"/>
+      <point x="119" y="47"/>
+      <point x="240" y="33" type="curve"/>
+      <point x="372" y="118" type="line"/>
+      <point x="390" y="109" type="line"/>
+      <point x="388" y="40" type="line"/>
+      <point x="363" y="-23"/>
+      <point x="327" y="-73"/>
+      <point x="268" y="-136" type="curve"/>
+      <point x="269" y="-208"/>
+      <point x="336" y="-249"/>
+      <point x="442" y="-248" type="curve"/>
+      <point x="515" y="-118"/>
+      <point x="563" y="10"/>
+      <point x="568" y="162" type="curve"/>
+      <point x="530" y="221"/>
+      <point x="451" y="263"/>
+      <point x="369" y="246" type="curve"/>
+      <point x="254" y="176" type="line"/>
+    </contour>
+    <contour>
+      <point x="614" y="262" type="curve"/>
+      <point x="691" y="374"/>
+      <point x="715" y="491"/>
+      <point x="698" y="617" type="curve"/>
+      <point x="496" y="592" type="line"/>
+      <point x="519" y="481" type="line"/>
+      <point x="515" y="428"/>
+      <point x="500" y="390"/>
+      <point x="468" y="342" type="curve"/>
+      <point x="485" y="303"/>
+      <point x="535" y="270"/>
+    </contour>
+    <contour>
+      <point x="610" y="8" type="move" name="blwm"/>
+    </contour>
+    <contour>
+      <point x="478" y="628" type="move" name="abvm"/>
+    </contour>
+  </outline>
+</glyph>

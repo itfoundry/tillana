@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rcommaaccent" format="1">
+  <advance width="487"/>
+  <unicode hex="0157"/>
+  <outline>
+    <contour>
+      <point x="49" y="-293" type="curve"/>
+      <point x="123" y="-234"/>
+      <point x="175" y="-154"/>
+      <point x="182" y="-77" type="curve"/>
+      <point x="165" y="-31"/>
+      <point x="102" y="8"/>
+      <point x="37" y="-43" type="curve"/>
+      <point x="57" y="-180" type="line"/>
+      <point x="-1" y="-267" type="line"/>
+      <point x="7" y="-285"/>
+      <point x="25" y="-294"/>
+    </contour>
+    <component base="r"/>
+  </outline>
+</glyph>

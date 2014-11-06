@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="degree" format="1">
+  <advance width="479"/>
+  <unicode hex="00B0"/>
+  <outline>
+    <contour>
+      <point x="331" y="768" type="curve" smooth="yes"/>
+      <point x="211" y="768"/>
+      <point x="98" y="655"/>
+      <point x="99" y="565" type="curve" smooth="yes"/>
+      <point x="100" y="496"/>
+      <point x="188" y="427"/>
+      <point x="255" y="427" type="curve"/>
+      <point x="364" y="427"/>
+      <point x="494" y="530"/>
+      <point x="491" y="611" type="curve" smooth="yes"/>
+      <point x="490" y="673"/>
+      <point x="400" y="768"/>
+    </contour>
+    <contour>
+      <point x="316" y="718" type="curve"/>
+      <point x="343" y="685"/>
+      <point x="363" y="646"/>
+      <point x="368" y="601" type="curve"/>
+      <point x="356" y="545"/>
+      <point x="327" y="508"/>
+      <point x="268" y="477" type="curve"/>
+      <point x="245" y="503"/>
+      <point x="229" y="535"/>
+      <point x="227" y="575" type="curve"/>
+      <point x="232" y="630"/>
+      <point x="264" y="682"/>
+    </contour>
+  </outline>
+</glyph>

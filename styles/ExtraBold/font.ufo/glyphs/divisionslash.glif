@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="divisionslash" format="1">
+  <advance width="429"/>
+  <unicode hex="2215"/>
+  <outline>
+    <contour>
+      <point x="244" y="405" type="line"/>
+      <point x="-33" y="-51" type="line"/>
+      <point x="-24" y="-98"/>
+      <point x="4" y="-117"/>
+      <point x="87" y="-106" type="curve"/>
+      <point x="516" y="854" type="line"/>
+      <point x="490" y="897"/>
+      <point x="464" y="908"/>
+      <point x="382" y="886" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

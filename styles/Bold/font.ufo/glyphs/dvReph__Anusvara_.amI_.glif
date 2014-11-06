@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvReph_Anusvara.amI" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="-102" y="660" type="move" name="_abvm.i"/>
+    </contour>
+    <contour>
+      <point x="34" y="674" type="curve" smooth="yes"/>
+      <point x="61" y="674"/>
+      <point x="82" y="697"/>
+      <point x="82" y="722" type="curve" smooth="yes"/>
+      <point x="82" y="749"/>
+      <point x="61" y="771"/>
+      <point x="34" y="771" type="curve" smooth="yes"/>
+      <point x="6" y="771"/>
+      <point x="-15" y="749"/>
+      <point x="-15" y="722" type="curve" smooth="yes"/>
+      <point x="-15" y="697"/>
+      <point x="6" y="674"/>
+    </contour>
+    <contour>
+      <point x="-190" y="904" type="curve"/>
+      <point x="-159" y="853"/>
+      <point x="-123" y="763"/>
+      <point x="-105" y="681" type="curve"/>
+      <point x="-70" y="682"/>
+      <point x="-50" y="690"/>
+      <point x="-42" y="708" type="curve"/>
+      <point x="-63" y="764"/>
+      <point x="-77" y="809"/>
+      <point x="-82" y="869" type="curve"/>
+      <point x="-68" y="878" type="line"/>
+      <point x="-32" y="866"/>
+      <point x="-4" y="843"/>
+      <point x="32" y="802" type="curve"/>
+      <point x="106" y="823"/>
+      <point x="139" y="866"/>
+      <point x="123" y="916" type="curve"/>
+      <point x="72" y="962"/>
+      <point x="8" y="983"/>
+      <point x="-77" y="988" type="curve"/>
+      <point x="-131" y="978"/>
+      <point x="-166" y="946"/>
+    </contour>
+  </outline>
+</glyph>

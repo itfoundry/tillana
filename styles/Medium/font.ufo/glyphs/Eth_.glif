@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Eth" format="1">
+  <advance width="662"/>
+  <unicode hex="00D0"/>
+  <outline>
+    <contour>
+      <point x="394" y="426" type="curve"/>
+      <point x="174" y="398" type="line"/>
+      <point x="37" y="410" type="line"/>
+      <point x="15" y="393"/>
+      <point x="15" y="359"/>
+      <point x="47" y="334" type="curve"/>
+      <point x="223" y="355" type="line"/>
+      <point x="406" y="355" type="line"/>
+      <point x="432" y="381"/>
+      <point x="419" y="415"/>
+    </contour>
+    <component base="D" xOffset="7"/>
+  </outline>
+</glyph>

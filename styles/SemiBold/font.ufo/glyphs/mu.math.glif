@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="mu.math" format="1">
+  <advance width="613"/>
+  <outline>
+    <contour>
+      <point x="451" y="547" type="curve"/>
+      <point x="427" y="465"/>
+      <point x="407" y="374"/>
+      <point x="387" y="258" type="curve"/>
+      <point x="372" y="174" type="line"/>
+      <point x="398" y="153" type="line"/>
+      <point x="351" y="40" type="line"/>
+      <point x="396" y="0"/>
+      <point x="475" y="-11"/>
+      <point x="519" y="14" type="curve"/>
+      <point x="516" y="137"/>
+      <point x="517" y="250"/>
+      <point x="525" y="349" type="curve"/>
+      <point x="608" y="507" type="line"/>
+      <point x="586" y="548"/>
+      <point x="541" y="557"/>
+    </contour>
+    <contour>
+      <point x="126" y="32" type="line"/>
+      <point x="153" y="16"/>
+      <point x="208" y="3"/>
+      <point x="242" y="0" type="curve"/>
+      <point x="317" y="78"/>
+      <point x="376" y="145"/>
+      <point x="426" y="220" type="curve"/>
+      <point x="388" y="260" type="line"/>
+      <point x="343" y="196"/>
+      <point x="294" y="149"/>
+      <point x="246" y="104" type="curve"/>
+      <point x="214" y="113"/>
+      <point x="187" y="127"/>
+      <point x="172" y="152" type="curve"/>
+    </contour>
+    <contour>
+      <point x="63" y="-289" type="curve"/>
+      <point x="140" y="-14"/>
+      <point x="236" y="329"/>
+      <point x="258" y="508" type="curve"/>
+      <point x="219" y="555"/>
+      <point x="148" y="562"/>
+      <point x="94" y="546" type="curve"/>
+      <point x="100" y="455"/>
+      <point x="103" y="367"/>
+      <point x="102" y="298" type="curve"/>
+      <point x="65" y="135"/>
+      <point x="4" y="-53"/>
+      <point x="-70" y="-241" type="curve"/>
+      <point x="-53" y="-282"/>
+      <point x="7" y="-315"/>
+    </contour>
+  </outline>
+</glyph>

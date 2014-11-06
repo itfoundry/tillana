@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvVirama" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="-112" y="0" type="move" name="_blwm"/>
+    </contour>
+    <contour>
+      <point x="22" y="-223" type="curve"/>
+      <point x="37" y="-218"/>
+      <point x="43" y="-210"/>
+      <point x="41" y="-200" type="curve"/>
+      <point x="-27" y="-123"/>
+      <point x="-137" y="-52"/>
+      <point x="-230" y="-19" type="curve"/>
+      <point x="-255" y="-24"/>
+      <point x="-267" y="-41"/>
+      <point x="-266" y="-75" type="curve"/>
+      <point x="-144" y="-112"/>
+      <point x="-75" y="-150"/>
+    </contour>
+  </outline>
+</glyph>

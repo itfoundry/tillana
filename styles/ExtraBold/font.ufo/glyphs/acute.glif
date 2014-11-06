@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acute" format="1">
+  <advance width="307"/>
+  <unicode hex="00B4"/>
+  <outline>
+    <contour>
+      <point x="143" y="563" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="212" y="868" type="curve"/>
+      <point x="182" y="762" type="line"/>
+      <point x="107" y="667" type="line"/>
+      <point x="103" y="635"/>
+      <point x="150" y="616"/>
+      <point x="192" y="617" type="curve"/>
+      <point x="404" y="797" type="line"/>
+      <point x="371" y="865"/>
+      <point x="316" y="881"/>
+    </contour>
+  </outline>
+</glyph>

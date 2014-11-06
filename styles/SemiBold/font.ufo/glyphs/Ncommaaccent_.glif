@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ncommaaccent" format="1">
+  <advance width="711"/>
+  <unicode hex="0145"/>
+  <outline>
+    <contour>
+      <point x="259" y="-293" type="curve"/>
+      <point x="333" y="-234"/>
+      <point x="385" y="-154"/>
+      <point x="392" y="-77" type="curve"/>
+      <point x="375" y="-31"/>
+      <point x="312" y="8"/>
+      <point x="247" y="-43" type="curve"/>
+      <point x="268" y="-180" type="line"/>
+      <point x="210" y="-267" type="line"/>
+      <point x="218" y="-285"/>
+      <point x="235" y="-294"/>
+    </contour>
+    <component base="N"/>
+  </outline>
+</glyph>

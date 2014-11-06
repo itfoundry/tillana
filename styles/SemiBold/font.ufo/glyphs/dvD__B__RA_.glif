@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvD_B_RA" format="1">
+  <advance width="675"/>
+  <outline>
+    <contour>
+      <point x="479" y="-259" type="move" name="blwm"/>
+    </contour>
+    <contour>
+      <point x="351" y="640" type="move" name="abvm"/>
+    </contour>
+    <contour>
+      <point x="778" y="569" type="line"/>
+      <point x="792" y="579"/>
+      <point x="800" y="595"/>
+      <point x="804" y="610" type="curve"/>
+      <point x="792" y="623" type="line"/>
+      <point x="16" y="623" type="line"/>
+      <point x="1" y="613"/>
+      <point x="-9" y="597"/>
+      <point x="-14" y="584" type="curve"/>
+      <point x="1" y="569" type="line"/>
+    </contour>
+    <contour>
+      <point x="289" y="-52" type="curve"/>
+      <point x="311" y="-10" type="line"/>
+      <point x="248" y="19"/>
+      <point x="183" y="60"/>
+      <point x="129" y="98" type="curve"/>
+      <point x="112" y="46" type="line"/>
+      <point x="159" y="14"/>
+      <point x="241" y="-29"/>
+    </contour>
+    <contour>
+      <point x="352" y="58" type="line"/>
+      <point x="311" y="7"/>
+      <point x="272" y="-37"/>
+      <point x="225" y="-85" type="curve"/>
+      <point x="171" y="-85"/>
+      <point x="117" y="-57"/>
+      <point x="117" y="2" type="curve" smooth="yes"/>
+      <point x="117" y="40"/>
+      <point x="137" y="84"/>
+      <point x="199" y="112" type="curve"/>
+      <point x="239" y="96"/>
+      <point x="257" y="76"/>
+      <point x="298" y="55" type="curve"/>
+      <point x="328" y="95" type="line"/>
+      <point x="281" y="124"/>
+      <point x="238" y="163"/>
+      <point x="173" y="180" type="curve"/>
+      <point x="44" y="143"/>
+      <point x="-13" y="62"/>
+      <point x="-13" y="-12" type="curve" smooth="yes"/>
+      <point x="-13" y="-112"/>
+      <point x="101" y="-188"/>
+      <point x="249" y="-157" type="curve"/>
+      <point x="302" y="-88"/>
+      <point x="357" y="-10"/>
+      <point x="404" y="49" type="curve"/>
+    </contour>
+    <contour>
+      <point x="354" y="108" type="curve"/>
+      <point x="398" y="123" type="line"/>
+      <point x="344" y="128"/>
+      <point x="286" y="177"/>
+      <point x="276" y="226" type="curve"/>
+      <point x="333" y="288"/>
+      <point x="483" y="352"/>
+      <point x="545" y="403" type="curve"/>
+      <point x="579" y="437"/>
+      <point x="596" y="482"/>
+      <point x="583" y="514" type="curve"/>
+      <point x="547" y="557"/>
+      <point x="481" y="593"/>
+      <point x="418" y="616" type="curve"/>
+      <point x="376" y="582" type="line"/>
+      <point x="428" y="554"/>
+      <point x="471" y="526"/>
+      <point x="491" y="497" type="curve"/>
+      <point x="487" y="489" type="line"/>
+      <point x="394" y="389"/>
+      <point x="146" y="359"/>
+      <point x="146" y="230" type="curve" smooth="yes"/>
+      <point x="146" y="133"/>
+      <point x="255" y="43"/>
+      <point x="392" y="34" type="curve"/>
+      <point x="436" y="91"/>
+      <point x="479" y="152"/>
+      <point x="515" y="201" type="curve"/>
+      <point x="524" y="196" type="line"/>
+      <point x="509" y="148"/>
+      <point x="480" y="56"/>
+      <point x="446" y="-52" type="curve"/>
+      <point x="364" y="-131"/>
+      <point x="246" y="-202"/>
+      <point x="138" y="-243" type="curve"/>
+      <point x="125" y="-278"/>
+      <point x="142" y="-308"/>
+      <point x="195" y="-330" type="curve"/>
+      <point x="280" y="-276"/>
+      <point x="383" y="-200"/>
+      <point x="437" y="-137" type="curve"/>
+      <point x="446" y="-143" type="line"/>
+      <point x="408" y="-223" type="line"/>
+      <point x="428" y="-248"/>
+      <point x="466" y="-257"/>
+      <point x="517" y="-253" type="curve"/>
+      <point x="553" y="-106"/>
+      <point x="599" y="120"/>
+      <point x="640" y="231" type="curve"/>
+      <point x="604" y="288"/>
+      <point x="544" y="303"/>
+      <point x="507" y="292" type="curve"/>
+      <point x="478" y="257"/>
+      <point x="404" y="162"/>
+    </contour>
+  </outline>
+</glyph>

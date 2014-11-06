@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvCandrabindu" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="-172" y="634" type="move" name="_abvm"/>
+    </contour>
+    <contour>
+      <point x="-19" y="810" type="curve" smooth="yes"/>
+      <point x="15" y="810"/>
+      <point x="43" y="838"/>
+      <point x="43" y="871" type="curve" smooth="yes"/>
+      <point x="43" y="905"/>
+      <point x="15" y="933"/>
+      <point x="-19" y="933" type="curve" smooth="yes"/>
+      <point x="-54" y="933"/>
+      <point x="-82" y="905"/>
+      <point x="-82" y="871" type="curve" smooth="yes"/>
+      <point x="-82" y="838"/>
+      <point x="-54" y="810"/>
+    </contour>
+    <contour>
+      <point x="80" y="848" type="curve"/>
+      <point x="49" y="795"/>
+      <point x="8" y="765"/>
+      <point x="-58" y="752" type="curve"/>
+      <point x="-113" y="797"/>
+      <point x="-133" y="862"/>
+      <point x="-133" y="942" type="curve"/>
+      <point x="-190" y="968"/>
+      <point x="-246" y="944"/>
+      <point x="-284" y="882" type="curve"/>
+      <point x="-258" y="767"/>
+      <point x="-142" y="681"/>
+      <point x="-62" y="681" type="curve" smooth="yes"/>
+      <point x="18" y="681"/>
+      <point x="127" y="716"/>
+      <point x="183" y="785" type="curve"/>
+      <point x="163" y="839"/>
+      <point x="123" y="862"/>
+    </contour>
+  </outline>
+</glyph>

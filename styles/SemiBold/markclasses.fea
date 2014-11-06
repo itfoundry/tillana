@@ -1,0 +1,31 @@
+# Created: Thu Nov  6 19:01:59 2014
+# PS Name: Tillana-SemiBold
+# MM Inst: None
+# exported from noApp
+
+@mGC_abvm.i_n69_669 = [dvReph.amI dvReph_Anusvara.amI];
+@mGC_abvm_n125_640 = [dvmAI dvmEcandra dvAnusvara dvCandrabindu dvmE_Anusvara dvmE_Reph dvmE_Reph_Anusvara dvmAI_Anusvara dvmAI_Reph dvmAI_Reph_Anusvara];
+@mGC_abvm_n126_640 = [dvmE dvReph dvReph_Anusvara];
+@mGC_blwm_n106_4 = [dvmU dvmUU dvmvR dvmvLL dvVirama];
+@mGC_top_256_580 = [dieresis circumflex];
+
+markClass @mGC_abvm.i_n69_669 <anchor -69 669> @MC_abvm.i;
+markClass @mGC_abvm_n125_640 <anchor -125 640> @MC_abvm;
+markClass @mGC_abvm_n126_640 <anchor -126 640> @MC_abvm;
+markClass @mGC_blwm_n106_4 <anchor -106 4> @MC_blwm;
+markClass @mGC_top_256_580 <anchor 256 580> @MC_top;
+markClass acute <anchor 107 580> @MC_top;
+markClass breve <anchor 244 580> @MC_top;
+markClass caron <anchor 251 580> @MC_top;
+markClass cedilla <anchor 157 0> @MC_bottom;
+markClass dotaccent <anchor 151 580> @MC_top;
+markClass dvAnusvara.amI <anchor -170 649> @MC_abvm.i;
+markClass dvmvL <anchor -105 4> @MC_blwm;
+markClass dvmvRR <anchor -108 4> @MC_blwm;
+markClass grave <anchor 255 580> @MC_top;
+markClass hungarumlaut <anchor 213 580> @MC_top;
+markClass macron <anchor 254 580> @MC_top;
+markClass ogonek <anchor 152 0> @MC_ogonek;
+markClass ring <anchor 185 580> @MC_top;
+markClass tilde <anchor 265 580> @MC_top;
+

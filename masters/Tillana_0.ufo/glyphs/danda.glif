@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="danda" format="1">
+  <advance width="353"/>
+  <outline>
+    <contour>
+      <point x="239" y="429" type="line"/>
+      <point x="215" y="305"/>
+      <point x="189" y="189"/>
+      <point x="146" y="29" type="curve"/>
+      <point x="162" y="2"/>
+      <point x="196" y="-4"/>
+      <point x="234" y="1" type="curve"/>
+      <point x="250" y="143"/>
+      <point x="269" y="277"/>
+      <point x="288" y="417" type="curve"/>
+      <point x="355" y="708" type="line"/>
+      <point x="334" y="731"/>
+      <point x="308" y="723"/>
+      <point x="266" y="704" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

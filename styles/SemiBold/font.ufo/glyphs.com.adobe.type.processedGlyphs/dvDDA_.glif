@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="dvDDA">
+  <advance width="498" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="640" y="623" />
+      <point type="line" x="20" y="623" />
+      <point x="6" y="613" />
+      <point x="-4" y="597" />
+      <point type="curve" x="-10" y="584" />
+      <point type="line" x="6" y="569" />
+      <point type="line" x="259" y="569" />
+      <point x="295" y="552" />
+      <point x="333" y="535" />
+      <point type="curve" x="355" y="508" />
+      <point type="line" x="352" y="499" />
+      <point x="290" y="468" />
+      <point x="210" y="452" />
+      <point type="curve" x="124" y="435" />
+      <point x="68" y="403" />
+      <point x="48" y="341" />
+      <point type="curve" x="68" y="295" />
+      <point x="149" y="251" />
+      <point x="259" y="240" />
+      <point type="curve" x="339" y="201" />
+      <point type="line" x="340" y="193" />
+      <point x="264" y="143" />
+      <point x="127" y="124" />
+      <point type="curve" x="21" y="123" />
+      <point x="-7" y="97" />
+      <point x="1" y="48" />
+      <point type="curve" x="47" y="10" />
+      <point x="178" y="17" />
+      <point x="348" y="61" />
+      <point type="curve" x="416" y="109" />
+      <point x="450" y="161" />
+      <point x="456" y="222" />
+      <point type="curve" x="426" y="251" />
+      <point x="352" y="284" />
+      <point x="242" y="299" />
+      <point type="curve" x="174" y="332" />
+      <point type="line" x="177" y="343" />
+      <point x="248" y="363" />
+      <point x="338" y="381" />
+      <point type="curve" x="401" y="414" />
+      <point x="435" y="443" />
+      <point x="451" y="495" />
+      <point type="curve" x="441" y="525" />
+      <point x="425" y="543" />
+      <point x="406" y="557" />
+      <point type="curve" x="387" y="569" />
+      <point type="line" x="625" y="569" />
+      <point x="640" y="579" />
+      <point x="648" y="595" />
+      <point type="curve" x="652" y="610" />
+    </contour>
+  </outline>
+</glyph>
