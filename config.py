@@ -1,13 +1,13 @@
 #!/usr/bin/python
 
-FAMILY_NAME = 'SomeDevanagari'
+FAMILY_NAME = 'Tillana'
 
 STYLE_NAMES = [
-    'Light',
     'Regular',
     'Medium',
     'SemiBold',
     'Bold',
+    'ExtraBold',
 ]
 
 UFOIG_ARGS = [

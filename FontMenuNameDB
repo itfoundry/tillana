@@ -10,34 +10,34 @@
 #   l=  Compatible Family Menu Name
 #   m=1,Macintosh Compatible Full Name
 
-[SomeDevanagari-Light]
-  f=  Some Devanagari
-  s=  Light
-  l=  Some Devanagari Light
-  m=1,Some Devanagari Light
-
-[SomeDevanagari-Regular]
-  f=  Some Devanagari
+[Tillana-Regular]
+  f=  Tillana
   s=  Regular
-  l=  Some Devanagari
-  m=1,Some Devanagari
+  l=  Tillana
+  m=1,Tillana
 
-[SomeDevanagari-Medium]
-  f=  Some Devanagari
+[Tillana-Medium]
+  f=  Tillana
   s=  Medium
-  l=  Some Devanagari Medium
-  m=1,Some Devanagari Medium
+  l=  Tillana Medium
+  m=1,Tillana Medium
 
-[SomeDevanagari-SemiBold]
-  f=  Some Devanagari
+[Tillana-SemiBold]
+  f=  Tillana
   s=  SemiBold
-  l=  Some Devanagari SemiBold
-  m=1,Some Devanagari SemiBold
+  l=  Tillana SemiBold
+  m=1,Tillana SemiBold
 
-[SomeDevanagari-Bold]
-  f=  Some Devanagari
+[Tillana-Bold]
+  f=  Tillana
   s=  Bold
-  l=  Some Devanagari
-  m=1,Some Devanagari Bold
+  l=  Tillana
+  m=1,Tillana Bold
 # Style-linked because of `l` (the same as Regular's)
 #   and `styles/Bold/fontinfo` (`IsBoldStyle true`).
+
+[Tillana-ExtraBold]
+  f=  Tillana
+  s=  ExtraBold
+  l=  Tillana ExtraBold
+  m=1,Tillana ExtraBold
