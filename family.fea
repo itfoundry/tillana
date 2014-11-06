@@ -888,6 +888,8 @@ feature abvs {
 
 feature blws {
 
+  sub dvDA dvmU  by dvDA_mU;
+  sub dvDA dvmUU by dvDA_mUU;
   sub dvRA dvmU  by dvRA_mU;
   sub dvRA dvmUU by dvRA_mUU;
   sub dvHA dvmU  by dvHA_mU;
@@ -1001,4 +1003,7 @@ feature blwm {
 feature liga {
   sub f i by fi;
   sub f l by fl;
+  sub f f by f_f;
+  sub f t by f_t;
+  sub t t by t_t;
 } liga;
