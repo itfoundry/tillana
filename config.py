@@ -21,11 +21,11 @@ UFOIG_ARGS = [
 ]
 
 MATCH_mI_OFFSETS_DICT = {
-    'Light':    0,
-    'Regular':  0,
-    'Medium':   0,
-    'SemiBold': 0,
-    'Bold':     0,
+    'Regular':   0,
+    'Medium':    0,
+    'SemiBold':  0,
+    'Bold':      0,
+    'ExtraBold': 0,
 }
 
 MAKEOTF_ARGS = [
