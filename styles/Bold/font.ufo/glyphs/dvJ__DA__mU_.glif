@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvJ_DA_mU" format="1">
+  <advance width="1078"/>
+  <outline>
+    <contour>
+      <point x="693" y="567" type="line"/>
+      <point x="708" y="578"/>
+      <point x="716" y="595"/>
+      <point x="720" y="611" type="curve"/>
+      <point x="708" y="625" type="line"/>
+      <point x="11" y="625" type="line"/>
+      <point x="-5" y="614"/>
+      <point x="-16" y="597"/>
+      <point x="-22" y="584" type="curve"/>
+      <point x="-5" y="567" type="line"/>
+    </contour>
+    <contour>
+      <point x="164" y="480" type="curve"/>
+      <point x="90" y="431"/>
+      <point x="40" y="344"/>
+      <point x="29" y="280" type="curve" smooth="yes"/>
+      <point x="30" y="174"/>
+      <point x="113" y="84"/>
+      <point x="200" y="61" type="curve" smooth="yes"/>
+      <point x="293" y="55"/>
+      <point x="439" y="136"/>
+      <point x="444" y="231" type="curve"/>
+      <point x="434" y="263" type="line"/>
+      <point x="439" y="269" type="line"/>
+      <point x="467" y="267" type="line"/>
+      <point x="522" y="268"/>
+      <point x="612" y="293"/>
+      <point x="672" y="331" type="curve"/>
+      <point x="626" y="376" type="line"/>
+      <point x="576" y="351"/>
+      <point x="514" y="346"/>
+      <point x="471" y="350" type="curve"/>
+      <point x="450" y="353"/>
+      <point x="429" y="378"/>
+      <point x="414" y="399" type="curve"/>
+      <point x="356" y="404"/>
+      <point x="312" y="361"/>
+      <point x="294" y="285" type="curve"/>
+      <point x="308" y="278"/>
+      <point x="323" y="269"/>
+      <point x="330" y="257" type="curve" smooth="yes"/>
+      <point x="326" y="219"/>
+      <point x="271" y="167"/>
+      <point x="218" y="157" type="curve"/>
+      <point x="193" y="181"/>
+      <point x="184" y="221"/>
+      <point x="188" y="261" type="curve" smooth="yes"/>
+      <point x="193" y="312"/>
+      <point x="236" y="358"/>
+      <point x="281" y="392" type="curve"/>
+      <point x="283" y="445"/>
+      <point x="238" y="481"/>
+    </contour>
+    <component base="dvDA_mU" xOffset="495"/>
+  </outline>
+</glyph>

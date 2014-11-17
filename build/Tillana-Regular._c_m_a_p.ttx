@@ -419,6 +419,7 @@
       <map code="0x2113" name="uni2113"/><!-- SCRIPT SMALL L -->
       <map code="0x2122" name="trademark"/><!-- TRADE MARK SIGN -->
       <map code="0x2126" name="uni2126"/><!-- OHM SIGN -->
+      <map code="0x212e" name="estimated"/><!-- ESTIMATED SYMBOL -->
       <map code="0x2202" name="partialdiff"/><!-- PARTIAL DIFFERENTIAL -->
       <map code="0x2206" name="uni2206"/><!-- INCREMENT -->
       <map code="0x220f" name="product"/><!-- N-ARY PRODUCT -->
@@ -1103,6 +1104,7 @@
       <map code="0x2113" name="uni2113"/><!-- SCRIPT SMALL L -->
       <map code="0x2122" name="trademark"/><!-- TRADE MARK SIGN -->
       <map code="0x2126" name="uni2126"/><!-- OHM SIGN -->
+      <map code="0x212e" name="estimated"/><!-- ESTIMATED SYMBOL -->
       <map code="0x2202" name="partialdiff"/><!-- PARTIAL DIFFERENTIAL -->
       <map code="0x2206" name="uni2206"/><!-- INCREMENT -->
       <map code="0x220f" name="product"/><!-- N-ARY PRODUCT -->

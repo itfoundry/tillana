@@ -1201,6 +1201,7 @@
           <LigatureSet glyph="dvDDH">
             <Ligature components="dvDDHA" glyph="dvDDH_DDHA"/>
             <Ligature components="dvYA" glyph="dvDDH_YA"/>
+            <Ligature components="dvVA" glyph="dvDDH_VA"/>
           </LigatureSet>
           <LigatureSet glyph="dvDH">
             <Ligature components="dvN,dvYA" glyph="dvDH_N_YA"/>
@@ -1584,6 +1585,7 @@
           <LigatureSet glyph="dvTTH">
             <Ligature components="dvTTHA" glyph="dvTTH_TTHA"/>
             <Ligature components="dvYA" glyph="dvTTH_YA"/>
+            <Ligature components="dvVA" glyph="dvTTH_VA"/>
           </LigatureSet>
           <LigatureSet glyph="dvT_R">
             <Ligature components="dvYA" glyph="dvT_R_YA"/>
@@ -1635,10 +1637,12 @@
             <Glyph value="dvTT_TTHA"/>
             <Glyph value="dvTT_VA"/>
             <Glyph value="dvTTH_TTHA"/>
+            <Glyph value="dvTTH_VA"/>
             <Glyph value="dvDD_DDA"/>
             <Glyph value="dvDD_DDHA"/>
             <Glyph value="dvDD_VA"/>
             <Glyph value="dvDDH_DDHA"/>
+            <Glyph value="dvDDH_VA"/>
             <Glyph value="dvD_GA"/>
             <Glyph value="dvD_G_RA"/>
             <Glyph value="dvD_GHA"/>
@@ -2619,12 +2623,14 @@
             <Glyph value="dvTT_VA"/>
             <Glyph value="dvTTH_TTHA"/>
             <Glyph value="dvTTH_YA"/>
+            <Glyph value="dvTTH_VA"/>
             <Glyph value="dvDD_DDA"/>
             <Glyph value="dvDD_DDHA"/>
             <Glyph value="dvDD_YA"/>
             <Glyph value="dvDD_VA"/>
             <Glyph value="dvDDH_DDHA"/>
             <Glyph value="dvDDH_YA"/>
+            <Glyph value="dvDDH_VA"/>
             <Glyph value="dvNN_TTA"/>
             <Glyph value="dvNN_TTHA"/>
             <Glyph value="dvNN_DDA"/>
@@ -2924,15 +2930,43 @@
         <LookupFlag value="0"/>
         <!-- SubTableCount=1 -->
         <LigatureSubst index="0">
+          <LigatureSet glyph="dvB_DA">
+            <Ligature components="dvmU" glyph="dvB_DA_mU"/>
+            <Ligature components="dvmUU" glyph="dvB_DA_mUU"/>
+          </LigatureSet>
           <LigatureSet glyph="dvDA">
             <Ligature components="dvmU" glyph="dvDA_mU"/>
             <Ligature components="dvmUU" glyph="dvDA_mUU"/>
             <Ligature components="dvmvR" glyph="dvDA_mvR"/>
           </LigatureSet>
+          <LigatureSet glyph="dvG_DA">
+            <Ligature components="dvmU" glyph="dvG_DA_mU"/>
+            <Ligature components="dvmUU" glyph="dvG_DA_mUU"/>
+          </LigatureSet>
           <LigatureSet glyph="dvHA">
             <Ligature components="dvmU" glyph="dvHA_mU"/>
             <Ligature components="dvmUU" glyph="dvHA_mUU"/>
             <Ligature components="dvmvR" glyph="dvHA_mvR"/>
+          </LigatureSet>
+          <LigatureSet glyph="dvJ_DA">
+            <Ligature components="dvmU" glyph="dvJ_DA_mU"/>
+            <Ligature components="dvmUU" glyph="dvJ_DA_mUU"/>
+          </LigatureSet>
+          <LigatureSet glyph="dvK_DA">
+            <Ligature components="dvmU" glyph="dvK_DA_mU"/>
+            <Ligature components="dvmUU" glyph="dvK_DA_mUU"/>
+          </LigatureSet>
+          <LigatureSet glyph="dvL_DA">
+            <Ligature components="dvmU" glyph="dvL_DA_mU"/>
+            <Ligature components="dvmUU" glyph="dvL_DA_mUU"/>
+          </LigatureSet>
+          <LigatureSet glyph="dvM_DA">
+            <Ligature components="dvmU" glyph="dvM_DA_mU"/>
+            <Ligature components="dvmUU" glyph="dvM_DA_mUU"/>
+          </LigatureSet>
+          <LigatureSet glyph="dvN_DA">
+            <Ligature components="dvmU" glyph="dvN_DA_mU"/>
+            <Ligature components="dvmUU" glyph="dvN_DA_mUU"/>
           </LigatureSet>
           <LigatureSet glyph="dvRA">
             <Ligature components="dvmU" glyph="dvRA_mU"/>
@@ -2940,6 +2974,10 @@
           </LigatureSet>
           <LigatureSet glyph="dvSHA">
             <Ligature components="dvmvR" glyph="dvSHA_mvR"/>
+          </LigatureSet>
+          <LigatureSet glyph="dvS_DA">
+            <Ligature components="dvmU" glyph="dvS_DA_mU"/>
+            <Ligature components="dvmUU" glyph="dvS_DA_mUU"/>
           </LigatureSet>
         </LigatureSubst>
       </Lookup>

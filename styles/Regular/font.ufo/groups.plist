@@ -295,12 +295,14 @@
 		<string>dvTT_VA</string>
 		<string>dvTTH_TTHA</string>
 		<string>dvTTH_YA</string>
+		<string>dvTTH_VA</string>
 		<string>dvDD_DDA</string>
 		<string>dvDD_DDHA</string>
 		<string>dvDD_YA</string>
 		<string>dvDD_VA</string>
 		<string>dvDDH_DDHA</string>
 		<string>dvDDH_YA</string>
+		<string>dvDDH_VA</string>
 		<string>dvNN_TTA</string>
 		<string>dvNN_TTHA</string>
 		<string>dvNN_DDA</string>

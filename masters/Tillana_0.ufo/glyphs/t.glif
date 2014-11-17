@@ -4,6 +4,9 @@
   <unicode hex="0074"/>
   <outline>
     <contour>
+      <point x="171" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
       <point x="191" y="525" type="line"/>
       <point x="42" y="524" type="line"/>
       <point x="24" y="502"/>
@@ -40,9 +43,6 @@
       <point x="253" y="92"/>
       <point x="201" y="73"/>
       <point x="132" y="57" type="curve"/>
-    </contour>
-    <contour>
-      <point x="171" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
 </glyph>

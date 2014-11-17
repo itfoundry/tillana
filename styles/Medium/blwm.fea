@@ -1,4 +1,4 @@
-# Created: Thu Nov  6 19:01:38 2014
+# Created: Mon Nov 17 18:55:14 2014
 # PS Name: Tillana-Medium
 # MM Inst: None
 # exported from noApp
@@ -7,6 +7,7 @@
 
 lookup MARK_BASE_blwm {
 	@bGC_dvDA_blwm = [dvDA dvDA_mU dvDA_mUU dvD];
+	@bGC_dvDDH_DDHA_blwm = [dvDDH_DDHA dvDDH_VA];
 	@bGC_dvDDHxA_blwm = [dvDDHxA dvDDH];
 	@bGC_dvHA_mU_blwm = [dvHA_mU dvHA_mUU dvH];
 	@bGC_dvKA_blwm = [dvKA dvK_RA];
@@ -21,10 +22,12 @@ lookup MARK_BASE_blwm {
 	@bGC_dvRA_mUU_blwm = [dvRA_mUU dvRA_mU];
 	@bGC_dvTTA_blwm = [dvTTA dvTT_R dvTT];
 	@bGC_dvTTHA_blwm = [dvTTHA dvTTH];
+	@bGC_dvTTH_TTHA_blwm = [dvTTH_TTHA dvTTH_VA];
 	@bGC_dvT_KA_blwm = [dvT_KA dvN_DDA];
 	@bGC_dvU_blwm = [dvU dvUU];
 	@bGC_dvvR_blwm = [dvvR dvvRR];
 	pos base @bGC_dvDA_blwm <anchor 167 2> mark @MC_blwm;
+	pos base @bGC_dvDDH_DDHA_blwm <anchor 243 -271> mark @MC_blwm;
 	pos base @bGC_dvDDHxA_blwm <anchor 333 2> mark @MC_blwm;
 	pos base @bGC_dvHA_mU_blwm <anchor 224 2> mark @MC_blwm;
 	pos base @bGC_dvKA_blwm <anchor 358 2> mark @MC_blwm;
@@ -39,6 +42,7 @@ lookup MARK_BASE_blwm {
 	pos base @bGC_dvRA_mUU_blwm <anchor 217 2> mark @MC_blwm;
 	pos base @bGC_dvTTA_blwm <anchor 307 2> mark @MC_blwm;
 	pos base @bGC_dvTTHA_blwm <anchor 325 2> mark @MC_blwm;
+	pos base @bGC_dvTTH_TTHA_blwm <anchor 261 -271> mark @MC_blwm;
 	pos base @bGC_dvT_KA_blwm <anchor 653 2> mark @MC_blwm;
 	pos base @bGC_dvU_blwm <anchor 299 2> mark @MC_blwm;
 	pos base @bGC_dvvR_blwm <anchor 424 2> mark @MC_blwm;
@@ -51,7 +55,6 @@ lookup MARK_BASE_blwm {
 	pos base dvC_CH_VA <anchor 787 -227> mark @MC_blwm;
 	pos base dvDA_mvR <anchor 289 -271> mark @MC_blwm;
 	pos base dvDDHA <anchor 349 2> mark @MC_blwm;
-	pos base dvDDH_DDHA <anchor 243 -271> mark @MC_blwm;
 	pos base dvDDH_RA <anchor 314 -235> mark @MC_blwm;
 	pos base dvDD_DDA <anchor 259 -271> mark @MC_blwm;
 	pos base dvDD_DDHA <anchor 251 -271> mark @MC_blwm;
@@ -138,7 +141,6 @@ lookup MARK_BASE_blwm {
 	pos base dvS_DA <anchor 636 -118> mark @MC_blwm;
 	pos base dvS_TTA <anchor 704 2> mark @MC_blwm;
 	pos base dvTTH_RA <anchor 303 -195> mark @MC_blwm;
-	pos base dvTTH_TTHA <anchor 261 -271> mark @MC_blwm;
 	pos base dvTT_RA <anchor 287 -194> mark @MC_blwm;
 	pos base dvTT_TTA <anchor 223 -271> mark @MC_blwm;
 	pos base dvTT_TTHA <anchor 257 -271> mark @MC_blwm;

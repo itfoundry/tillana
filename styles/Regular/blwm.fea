@@ -1,4 +1,4 @@
-# Created: Thu Nov  6 19:01:16 2014
+# Created: Mon Nov 17 18:54:51 2014
 # PS Name: Tillana-Regular
 # MM Inst: None
 # exported from noApp
@@ -7,7 +7,7 @@
 
 lookup MARK_BASE_blwm {
 	@bGC_dvC_CHA_blwm = [dvC_CHA dvS_PHA];
-	@bGC_dvDD_DDHA_blwm = [dvDD_DDHA dvDDH_DDHA];
+	@bGC_dvDD_DDHA_blwm = [dvDD_DDHA dvDDH_DDHA dvDDH_VA];
 	@bGC_dvD_BA_blwm = [dvD_BA dvD_VA];
 	@bGC_dvD_GA_blwm = [dvD_GA dvD_RA];
 	@bGC_dvE_blwm = [dvE dvKA dvCHA dvTTHA dvKxA dvDDHxA dvK_RA dvKx_RA dvTTH dvDDH];
@@ -26,6 +26,7 @@ lookup MARK_BASE_blwm {
 	@bGC_dvPH_PHA_blwm = [dvPH_PHA dvPHx_PHxA];
 	@bGC_dvP_TTHA_blwm = [dvP_TTHA dvSS_KA dvSS_K_RA];
 	@bGC_dvRA_mUU_blwm = [dvRA_mUU dvRA_mU];
+	@bGC_dvTTH_TTHA_blwm = [dvTTH_TTHA dvTTH_VA];
 	@bGC_dvTT_VA_blwm = [dvTT_VA dvDD_VA];
 	@bGC_dvT_KA_blwm = [dvT_KA dvT_K_RA];
 	@bGC_dvU_blwm = [dvU dvUU];
@@ -50,6 +51,7 @@ lookup MARK_BASE_blwm {
 	pos base @bGC_dvPH_PHA_blwm <anchor 822 0> mark @MC_blwm;
 	pos base @bGC_dvP_TTHA_blwm <anchor 514 0> mark @MC_blwm;
 	pos base @bGC_dvRA_mUU_blwm <anchor 182 0> mark @MC_blwm;
+	pos base @bGC_dvTTH_TTHA_blwm <anchor 234 -250> mark @MC_blwm;
 	pos base @bGC_dvTT_VA_blwm <anchor 182 -213> mark @MC_blwm;
 	pos base @bGC_dvT_KA_blwm <anchor 585 0> mark @MC_blwm;
 	pos base @bGC_dvU_blwm <anchor 264 0> mark @MC_blwm;
@@ -128,7 +130,6 @@ lookup MARK_BASE_blwm {
 	pos base dvS_K_RA <anchor 707 0> mark @MC_blwm;
 	pos base dvS_TTA <anchor 624 0> mark @MC_blwm;
 	pos base dvTTH_RA <anchor 273 -165> mark @MC_blwm;
-	pos base dvTTH_TTHA <anchor 234 -250> mark @MC_blwm;
 	pos base dvTT_RA <anchor 256 -164> mark @MC_blwm;
 	pos base dvTT_TTA <anchor 194 -250> mark @MC_blwm;
 	pos base dvTT_TTHA <anchor 227 -250> mark @MC_blwm;

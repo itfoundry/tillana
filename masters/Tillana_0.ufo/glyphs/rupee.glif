@@ -4,8 +4,6 @@
   <unicode hex="20A8"/>
   <outline>
     <contour>
-      <point x="790" y="5"/>
-      <point x="875" y="69"/>
       <point x="898" y="172" type="curve"/>
       <point x="868" y="293"/>
       <point x="635" y="337"/>
@@ -40,6 +38,8 @@
       <point x="517" y="93"/>
       <point x="582" y="22"/>
       <point x="657" y="0" type="curve"/>
+      <point x="790" y="5"/>
+      <point x="875" y="69"/>
     </contour>
     <component base="R"/>
   </outline>

@@ -31,8 +31,6 @@
       <point x="234" y="331" type="curve"/>
     </contour>
     <contour>
-      <point x="213" y="267"/>
-      <point x="389" y="398"/>
       <point x="389" y="500" type="curve"/>
       <point x="389" y="546"/>
       <point x="343" y="619"/>
@@ -68,6 +66,8 @@
       <point x="130" y="214"/>
       <point x="89" y="264" type="curve"/>
       <point x="94" y="272" type="line"/>
+      <point x="213" y="267"/>
+      <point x="389" y="398"/>
     </contour>
     <component base="dvDA_mUU" xOffset="360"/>
   </outline>

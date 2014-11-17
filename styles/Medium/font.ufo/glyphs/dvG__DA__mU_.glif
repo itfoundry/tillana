@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvG_DA_mU" format="1">
+  <advance width="822"/>
+  <outline>
+    <component base="dvG"/>
+    <component base="dvDA_mU" xOffset="318"/>
+  </outline>
+</glyph>
