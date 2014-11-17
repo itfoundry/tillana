@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvM_DA_mU" format="1">
+  <advance width="1147"/>
+  <outline>
+    <contour>
+      <point x="732" y="565" type="line"/>
+      <point x="749" y="577"/>
+      <point x="757" y="595"/>
+      <point x="761" y="612" type="curve"/>
+      <point x="749" y="627" type="line"/>
+      <point x="3" y="627" type="line"/>
+      <point x="-14" y="615"/>
+      <point x="-26" y="597"/>
+      <point x="-34" y="584" type="curve"/>
+      <point x="-14" y="565" type="line"/>
+    </contour>
+    <contour>
+      <point x="218" y="144" type="line"/>
+      <point x="182" y="154"/>
+      <point x="149" y="198"/>
+      <point x="130" y="245" type="curve"/>
+      <point x="105" y="215" type="line"/>
+      <point x="226" y="255"/>
+      <point x="477" y="265"/>
+      <point x="674" y="320" type="curve"/>
+      <point x="650" y="386" type="line"/>
+      <point x="494" y="338"/>
+      <point x="214" y="320"/>
+      <point x="59" y="284" type="curve"/>
+      <point x="16" y="261"/>
+      <point x="5" y="219"/>
+      <point x="5" y="161" type="curve"/>
+      <point x="36" y="106"/>
+      <point x="101" y="51"/>
+      <point x="164" y="32" type="curve"/>
+      <point x="236" y="22"/>
+      <point x="342" y="43"/>
+      <point x="386" y="97" type="curve"/>
+      <point x="445" y="218"/>
+      <point x="479" y="477"/>
+      <point x="471" y="612" type="curve"/>
+      <point x="239" y="583" type="line"/>
+      <point x="292" y="475" type="line"/>
+      <point x="297" y="375"/>
+      <point x="272" y="225"/>
+      <point x="230" y="150" type="curve"/>
+    </contour>
+    <component base="dvDA_mU" xOffset="514"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

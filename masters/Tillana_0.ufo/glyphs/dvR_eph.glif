@@ -3,9 +3,6 @@
   <advance width="0"/>
   <outline>
     <contour>
-      <point x="-45" y="649" type="move" name="_abvm"/>
-    </contour>
-    <contour>
       <point x="-99" y="852" type="curve"/>
       <point x="-59" y="787"/>
       <point x="-38" y="746"/>
@@ -28,6 +25,9 @@
       <point x="5" y="945" type="curve"/>
       <point x="-44" y="941"/>
       <point x="-74" y="906"/>
+    </contour>
+    <contour>
+      <point x="-45" y="649" type="move" name="_abvm"/>
     </contour>
   </outline>
 </glyph>

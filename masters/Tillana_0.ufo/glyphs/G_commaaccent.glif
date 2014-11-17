@@ -4,6 +4,8 @@
   <unicode hex="0122"/>
   <outline>
     <contour>
+      <point x="229" y="-242"/>
+      <point x="243" y="-246"/>
       <point x="254" y="-245" type="curve"/>
       <point x="296" y="-207"/>
       <point x="351" y="-136"/>
@@ -13,8 +15,6 @@
       <point x="253" y="-36" type="curve"/>
       <point x="276" y="-148" type="line"/>
       <point x="222" y="-231" type="line"/>
-      <point x="229" y="-242"/>
-      <point x="243" y="-246"/>
     </contour>
     <component base="G"/>
   </outline>

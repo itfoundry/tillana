@@ -11,7 +11,7 @@
 	<key>familyName</key>
 	<string>Tillana</string>
 	<key>italicAngle</key>
-	<real>-10.0</real>
+	<real>-10</real>
 	<key>openTypeHeadCreated</key>
 	<string>2014/10/22 18:36:48</string>
 	<key>openTypeNamePreferredFamilyName</key>
@@ -25,19 +25,7 @@
 	<key>postscriptBlueValues</key>
 	<array>
 	</array>
-	<key>postscriptFamilyBlues</key>
-	<array>
-	</array>
-	<key>postscriptFamilyOtherBlues</key>
-	<array>
-	</array>
 	<key>postscriptOtherBlues</key>
-	<array>
-	</array>
-	<key>postscriptStemSnapH</key>
-	<array>
-	</array>
-	<key>postscriptStemSnapV</key>
 	<array>
 	</array>
 	<key>styleMapStyleName</key>

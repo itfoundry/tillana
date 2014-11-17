@@ -3,12 +3,6 @@
   <advance width="752"/>
   <outline>
     <contour>
-      <point x="488" y="-119" type="move" name="blwm"/>
-    </contour>
-    <contour>
-      <point x="481" y="649" type="move" name="abvm"/>
-    </contour>
-    <contour>
       <point x="532" y="573" type="line"/>
       <point x="545" y="581"/>
       <point x="553" y="595"/>
@@ -134,6 +128,12 @@
       <point x="415" y="-48"/>
       <point x="443" y="-11"/>
       <point x="496" y="55" type="curve"/>
+    </contour>
+    <contour>
+      <point x="488" y="-119" type="move" name="blwm"/>
+    </contour>
+    <contour>
+      <point x="481" y="649" type="move" name="abvm"/>
     </contour>
   </outline>
 </glyph>
