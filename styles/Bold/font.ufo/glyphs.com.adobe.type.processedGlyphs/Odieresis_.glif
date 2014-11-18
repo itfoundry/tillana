@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="Odieresis">
+  <advance width="701" />
+  <unicode hex="00D6" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="curve" x="527" y="372" />
+      <point x="497" y="262" />
+      <point x="423" y="160" />
+      <point type="curve" x="322" y="92" />
+      <point x="263" y="151" />
+      <point x="226" y="237" />
+      <point type="curve" x="225" y="332" />
+      <point x="225" y="448" />
+      <point x="309" y="592" />
+      <point type="curve" x="423" y="667" />
+      <point x="494" y="577" />
+      <point x="515" y="484" />
+    </contour>
+    <contour>
+      <point type="curve" x="43" y="317" />
+      <point x="44" y="172" />
+      <point x="193" y="0" />
+      <point type="curve" x="321" y="0" />
+      <point x="492" y="0" />
+      <point x="701" y="221" />
+      <point type="curve" x="698" y="406" />
+      <point x="695" y="584" />
+      <point x="541" y="758" />
+      <point type="curve" x="432" y="758" />
+      <point x="228" y="758" />
+      <point x="43" y="535" />
+    </contour>
+    <contour>
+      <point type="curve" x="578" y="850" />
+      <point x="607" y="850" />
+      <point x="631" y="875" />
+      <point type="curve" x="631" y="904" />
+      <point x="631" y="933" />
+      <point x="607" y="956" />
+      <point type="curve" x="578" y="956" />
+      <point x="547" y="956" />
+      <point x="521" y="933" />
+      <point type="curve" x="521" y="904" />
+      <point x="521" y="875" />
+      <point x="547" y="850" />
+    </contour>
+    <contour>
+      <point type="curve" x="331" y="985" />
+      <point x="285" y="985" />
+      <point x="247" y="948" />
+      <point type="curve" x="247" y="904" />
+      <point x="247" y="859" />
+      <point x="285" y="822" />
+      <point type="curve" x="331" y="822" />
+      <point x="377" y="822" />
+      <point x="413" y="859" />
+      <point type="curve" x="413" y="904" />
+      <point x="413" y="948" />
+      <point x="377" y="985" />
+    </contour>
+  </outline>
+</glyph>

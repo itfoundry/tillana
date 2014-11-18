@@ -70,6 +70,12 @@
       <point x="229" y="268" type="line"/>
     </contour>
     <component base="dvDA_mUU" xOffset="567"/>
+    <contour>
+      <point x="785" y="8" type="move" name="blwm"/>
+    </contour>
+    <contour>
+      <point x="822" y="628" type="move" name="abvm"/>
+    </contour>
   </outline>
   <lib>
     <dict>

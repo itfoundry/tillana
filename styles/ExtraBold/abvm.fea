@@ -1,4 +1,4 @@
-# Created: Mon Nov 17 18:56:22 2014
+# Created: Tue Nov 18 18:04:36 2014
 # PS Name: Tillana-ExtraBold
 # MM Inst: None
 # exported from noApp
@@ -6,13 +6,16 @@
 # NOTE: The markClass declarations can be found in the file 'markclasses.fea'.
 
 lookup MARK_BASE_abvm {
+	@bGC_dvB_DA_mU_abvm = [dvB_DA_mU dvB_DA_mUU];
 	@bGC_dvCHA_abvm = [dvCHA dvCH_RA];
 	@bGC_dvDDHA_abvm = [dvDDHA dvDDH_RA];
 	@bGC_dvDDH_DDHA_abvm = [dvDDH_DDHA dvDDH_VA];
 	@bGC_dvD_BA_abvm = [dvD_BA dvD_VA];
+	@bGC_dvG_DA_mU_abvm = [dvG_DA_mU dvG_DA_mUU];
 	@bGC_dvHA_abvm = [dvHA dvH_RA];
 	@bGC_dvHA_mvR_abvm = [dvHA_mvR dvHA_mU dvHA_mUU dvH];
 	@bGC_dvJ_DA_abvm = [dvJ_DA dvS_DA];
+	@bGC_dvJ_DA_mU_abvm = [dvJ_DA_mU dvJ_DA_mUU];
 	@bGC_dvJ_DDA_abvm = [dvJ_DDA dvNN_DDA];
 	@bGC_dvJ_TTA_abvm = [dvJ_TTA dvN_TTA];
 	@bGC_dvKA_abvm = [dvKA dvKxA dvK_RA dvKx_RA];
@@ -22,21 +25,27 @@ lookup MARK_BASE_abvm {
 	@bGC_dvNGA_abvm = [dvNGA dvTTA dvDDA dvDA dvDA_mU dvDA_mUU dvDA_mvR dvDDxA dvNG_RA dvTT_TTHA dvTT_RA dvTT_R dvDD_DDA dvDD_DDHA dvDD_RA dvDD_VA dvD_GA dvD_G_RA dvNG dvTT dvDD dvD];
 	@bGC_dvNN_TTA_abvm = [dvNN_TTA dvNN_TTHA];
 	@bGC_dvN_DA_abvm = [dvN_DA dvM_DA];
+	@bGC_dvN_DA_mU_abvm = [dvN_DA_mU dvN_DA_mUU dvM_DA_mU];
 	@bGC_dvN_D_VA_abvm = [dvN_D_VA dvL_D_RA];
 	@bGC_dvN_PHA_abvm = [dvN_PHA dvN_PH_RA];
 	@bGC_dvPHA_abvm = [dvPHA dvPHxA dvPH_RA dvPHx_RA];
 	@bGC_dvPH_PHA_abvm = [dvPH_PHA dvPHx_PHxA];
+	@bGC_dvS_DA_mU_abvm = [dvS_DA_mU dvS_DA_mUU];
 	@bGC_dvTTHA_abvm = [dvTTHA dvRA dvRA_mUU dvRA_mU dvRxA dvDDHxA dvTTH_RA dvD_DA dvTTH dvDDH dvR];
 	@bGC_dvTTH_TTHA_abvm = [dvTTH_TTHA dvD_NA dvD_BHA dvD_RA dvTTH_VA];
+	@bGC_dvT_KA_abvm = [dvT_KA dvL_DA_mU dvL_DA_mUU];
 	@bGC_dvU_abvm = [dvU dvUU];
 	@bGC_dvvR_abvm = [dvvR dvvRR dvE];
+	pos base @bGC_dvB_DA_mU_abvm <anchor 658 628> mark @MC_abvm;
 	pos base @bGC_dvCHA_abvm <anchor 581 628> mark @MC_abvm;
 	pos base @bGC_dvDDHA_abvm <anchor 285 628> mark @MC_abvm;
 	pos base @bGC_dvDDH_DDHA_abvm <anchor 206 628> mark @MC_abvm;
 	pos base @bGC_dvD_BA_abvm <anchor 353 628> mark @MC_abvm;
+	pos base @bGC_dvG_DA_mU_abvm <anchor 740 628> mark @MC_abvm;
 	pos base @bGC_dvHA_abvm <anchor 271 628> mark @MC_abvm;
 	pos base @bGC_dvHA_mvR_abvm <anchor 291 628> mark @MC_abvm;
 	pos base @bGC_dvJ_DA_abvm <anchor 776 628> mark @MC_abvm;
+	pos base @bGC_dvJ_DA_mU_abvm <anchor 793 628> mark @MC_abvm;
 	pos base @bGC_dvJ_DDA_abvm <anchor 755 628> mark @MC_abvm;
 	pos base @bGC_dvJ_TTA_abvm <anchor 746 628> mark @MC_abvm;
 	pos base @bGC_dvKA_abvm <anchor 468 628> mark @MC_abvm;
@@ -46,12 +55,15 @@ lookup MARK_BASE_abvm {
 	pos base @bGC_dvNGA_abvm <anchor 255 628> mark @MC_abvm;
 	pos base @bGC_dvNN_TTA_abvm <anchor 775 628> mark @MC_abvm;
 	pos base @bGC_dvN_DA_abvm <anchor 747 628> mark @MC_abvm;
+	pos base @bGC_dvN_DA_mU_abvm <anchor 769 628> mark @MC_abvm;
 	pos base @bGC_dvN_D_VA_abvm <anchor 718 628> mark @MC_abvm;
 	pos base @bGC_dvN_PHA_abvm <anchor 956 628> mark @MC_abvm;
 	pos base @bGC_dvPHA_abvm <anchor 520 628> mark @MC_abvm;
 	pos base @bGC_dvPH_PHA_abvm <anchor 1361 628> mark @MC_abvm;
+	pos base @bGC_dvS_DA_mU_abvm <anchor 822 628> mark @MC_abvm;
 	pos base @bGC_dvTTHA_abvm <anchor 265 628> mark @MC_abvm;
 	pos base @bGC_dvTTH_TTHA_abvm <anchor 275 628> mark @MC_abvm;
+	pos base @bGC_dvT_KA_abvm <anchor 778 628> mark @MC_abvm;
 	pos base @bGC_dvU_abvm <anchor 298 628> mark @MC_abvm;
 	pos base @bGC_dvvR_abvm <anchor 478 628> mark @MC_abvm;
 	pos base dvAI <anchor 508 628> mark @MC_abvm;
@@ -70,6 +82,8 @@ lookup MARK_BASE_abvm {
 	pos base dvH_VA <anchor 311 628> mark @MC_abvm;
 	pos base dvI <anchor 258 628> mark @MC_abvm;
 	pos base dvJ_KA <anchor 1004 628> mark @MC_abvm;
+	pos base dvK_DA_mU <anchor 1035 628> mark @MC_abvm;
+	pos base dvK_DA_mUU <anchor 1036 628> mark @MC_abvm;
 	pos base dvK_KA <anchor 1234 628> mark @MC_abvm;
 	pos base dvK_PHA <anchor 1270 628> mark @MC_abvm;
 	pos base dvK_S_DDA <anchor 1627 628> mark @MC_abvm;
@@ -85,6 +99,7 @@ lookup MARK_BASE_abvm {
 	pos base dvL_TTA <anchor 737 628> mark @MC_abvm;
 	pos base dvL_TTHA <anchor 761 628> mark @MC_abvm;
 	pos base dvL_V_DDA <anchor 1089 628> mark @MC_abvm;
+	pos base dvM_DA_mUU <anchor 770 628> mark @MC_abvm;
 	pos base dvM_HA <anchor 703 628> mark @MC_abvm;
 	pos base dvNN_DDHA <anchor 794 628> mark @MC_abvm;
 	pos base dvNY_CHA <anchor 1023 628> mark @MC_abvm;
@@ -116,7 +131,6 @@ lookup MARK_BASE_abvm {
 	pos base dvS_TTA <anchor 824 628> mark @MC_abvm;
 	pos base dvTT_TTA <anchor 235 628> mark @MC_abvm;
 	pos base dvTT_VA <anchor 245 628> mark @MC_abvm;
-	pos base dvT_KA <anchor 778 628> mark @MC_abvm;
 	pos base dvT_K_RA <anchor 774 628> mark @MC_abvm;
 	pos base dvT_PHA <anchor 856 628> mark @MC_abvm;
 	pos base dvV_HA <anchor 614 628> mark @MC_abvm;

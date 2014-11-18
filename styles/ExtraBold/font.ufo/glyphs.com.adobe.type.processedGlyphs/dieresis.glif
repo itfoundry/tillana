@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="dieresis">
+  <advance width="504" />
+  <unicode hex="00A8" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="curve" x="479" y="636" />
+      <point x="532" y="636" />
+      <point x="575" y="680" />
+      <point type="curve" x="575" y="733" />
+      <point x="575" y="785" />
+      <point x="532" y="828" />
+      <point type="curve" x="479" y="828" />
+      <point x="424" y="828" />
+      <point x="378" y="785" />
+      <point type="curve" x="378" y="733" />
+      <point x="378" y="680" />
+      <point x="424" y="636" />
+    </contour>
+    <contour>
+      <point type="curve" x="196" y="828" />
+      <point x="141" y="828" />
+      <point x="96" y="785" />
+      <point type="curve" x="96" y="733" />
+      <point x="96" y="680" />
+      <point x="141" y="636" />
+      <point type="curve" x="196" y="636" />
+      <point x="250" y="636" />
+      <point x="293" y="680" />
+      <point type="curve" x="293" y="733" />
+      <point x="293" y="785" />
+      <point x="250" y="828" />
+    </contour>
+  </outline>
+</glyph>

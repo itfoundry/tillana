@@ -2,6 +2,12 @@
 <glyph name="dvG_DA_mUU" format="1">
   <advance width="1005"/>
   <outline>
+    <contour>
+      <point x="620" y="6" type="move" name="blwm"/>
+    </contour>
+    <contour>
+      <point x="675" y="634" type="move" name="abvm"/>
+    </contour>
     <component base="dvDA_mUU" xOffset="421"/>
     <component base="dvG"/>
   </outline>

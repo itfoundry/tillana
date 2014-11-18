@@ -4,6 +4,12 @@
   <outline>
     <component base="dvG"/>
     <component base="dvDA_mU" xOffset="485"/>
+    <contour>
+      <point x="703" y="8" type="move" name="blwm"/>
+    </contour>
+    <contour>
+      <point x="740" y="628" type="move" name="abvm"/>
+    </contour>
   </outline>
   <lib>
     <dict>

@@ -45,6 +45,12 @@
       <point x="386" y="322" type="curve"/>
     </contour>
     <component base="dvDA_mUU" xOffset="514"/>
+    <contour>
+      <point x="732" y="8" type="move" name="blwm"/>
+    </contour>
+    <contour>
+      <point x="769" y="628" type="move" name="abvm"/>
+    </contour>
   </outline>
   <lib>
     <dict>

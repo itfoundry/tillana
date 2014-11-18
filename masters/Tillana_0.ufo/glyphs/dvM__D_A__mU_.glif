@@ -3,6 +3,12 @@
   <advance width="776"/>
   <outline>
     <contour>
+      <point x="461" y="0" type="move" name="blwm"/>
+    </contour>
+    <contour>
+      <point x="558" y="649" type="move" name="abvm"/>
+    </contour>
+    <contour>
       <point x="474" y="573" type="line"/>
       <point x="487" y="581"/>
       <point x="495" y="595"/>

@@ -32,6 +32,8 @@
 	<string>Dcroat_.glif</string>
 	<key>Delta.math</key>
 	<string>Delta_.math.glif</string>
+	<key>Edieresis</key>
+	<string>Edieresis_.glif</string>
 	<key>Eogonek</key>
 	<string>Eogonek_.glif</string>
 	<key>Eth</key>
@@ -40,6 +42,8 @@
 	<string>Euro_.glif</string>
 	<key>H</key>
 	<string>H_.glif</string>
+	<key>Idieresis</key>
+	<string>Idieresis_.glif</string>
 	<key>Iogonek</key>
 	<string>Iogonek_.glif</string>
 	<key>J</key>
@@ -62,6 +66,8 @@
 	<string>Ncommaaccent_.glif</string>
 	<key>Ntilde</key>
 	<string>Ntilde_.glif</string>
+	<key>Odieresis</key>
+	<string>Odieresis_.glif</string>
 	<key>Omega.math</key>
 	<string>Omega_.math.glif</string>
 	<key>Oslash</key>
@@ -90,6 +96,8 @@
 	<string>Tcommaaccent_.glif</string>
 	<key>Thorn</key>
 	<string>Thorn_.glif</string>
+	<key>Udieresis</key>
+	<string>Udieresis_.glif</string>
 	<key>Uogonek</key>
 	<string>Uogonek_.glif</string>
 	<key>V</key>
@@ -98,6 +106,8 @@
 	<string>W_.glif</string>
 	<key>X</key>
 	<string>X_.glif</string>
+	<key>Ydieresis</key>
+	<string>Ydieresis_.glif</string>
 	<key>a</key>
 	<string>a.glif</string>
 	<key>aacute</key>
@@ -140,6 +150,8 @@
 	<string>dcaron.glif</string>
 	<key>dcroat</key>
 	<string>dcroat.glif</string>
+	<key>dieresis</key>
+	<string>dieresis.glif</string>
 	<key>dollar</key>
 	<string>dollar.glif</string>
 	<key>dvA</key>
@@ -1386,6 +1398,8 @@
 	<string>germandbls.glif</string>
 	<key>h</key>
 	<string>h.glif</string>
+	<key>idieresis</key>
+	<string>idieresis.glif</string>
 	<key>indianrupee</key>
 	<string>indianrupee.glif</string>
 	<key>infinity</key>
