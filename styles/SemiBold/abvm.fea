@@ -1,4 +1,4 @@
-# Created: Fri Nov 21 18:11:28 2014
+# Created: Thu Jan  8 17:32:36 2015
 # PS Name: Tillana-SemiBold
 # MM Inst: None
 # exported from noApp
@@ -14,26 +14,26 @@ lookup MARK_BASE_abvm {
 	@bGC_dvDDHxA_abvm = [dvDDHxA dvDDH];
 	@bGC_dvDD_DDA_abvm = [dvDD_DDA dvDD_VA];
 	@bGC_dvD_NA_abvm = [dvD_NA dvD_BHA dvD_RA];
+	@bGC_dvG_DA_mUU_abvm = [dvG_DA_mUU dvL_DDA];
+	@bGC_dvG_DA_mU_abvm = [dvG_DA_mU dvL_DA];
 	@bGC_dvHA_mU_abvm = [dvHA_mU dvH];
 	@bGC_dvJ_DA_abvm = [dvJ_DA dvL_HA];
 	@bGC_dvJ_DA_mU_abvm = [dvJ_DA_mU dvJ_DA_mUU];
-	@bGC_dvKA_abvm = [dvKA dvKxA dvK_RA dvKx_RA];
+	@bGC_dvKA_abvm = [dvKA dvK_RA dvKxA dvKx_RA];
 	@bGC_dvK_KA_abvm = [dvK_KA dvKx_KxA];
 	@bGC_dvLLA_abvm = [dvLLA dvLL_RA];
-	@bGC_dvL_DA_abvm = [dvL_DA dvG_DA_mU];
 	@bGC_dvL_DA_mU_abvm = [dvL_DA_mU dvL_DA_mUU];
-	@bGC_dvL_DDA_abvm = [dvL_DDA dvG_DA_mUU];
 	@bGC_dvNGA_abvm = [dvNGA dvDDA dvDDxA dvNG_RA dvNG dvDD];
-	@bGC_dvNN_TTA_abvm = [dvNN_TTA dvS_TTA];
 	@bGC_dvN_DA_abvm = [dvN_DA dvM_DA];
 	@bGC_dvN_DA_mU_abvm = [dvN_DA_mU dvN_DA_mUU];
 	@bGC_dvN_PHA_abvm = [dvN_PHA dvN_PH_RA];
-	@bGC_dvPHA_abvm = [dvPHA dvPHxA dvPH_RA dvPHx_RA];
-	@bGC_dvPH_PHA_abvm = [dvPH_PHA dvPHx_PHxA];
+	@bGC_dvPHA_abvm = [dvPHA dvPHxA dvPHx_RA dvPH_RA];
+	@bGC_dvPHx_PHxA_abvm = [dvPHx_PHxA dvPH_PHA];
 	@bGC_dvP_PHA_abvm = [dvP_PHA dvSS_PHA];
 	@bGC_dvRA_mUU_abvm = [dvRA_mUU dvRA_mU];
 	@bGC_dvRxA_abvm = [dvRxA dvTT_TTA];
 	@bGC_dvS_DA_mU_abvm = [dvS_DA_mU dvS_DA_mUU];
+	@bGC_dvS_TTA_abvm = [dvS_TTA dvNN_TTA];
 	@bGC_dvTTA_abvm = [dvTTA dvTT_R dvTT];
 	@bGC_dvTTHA_abvm = [dvTTHA dvTTH];
 	@bGC_dvTTH_RA_abvm = [dvTTH_RA dvDD_DDHA];
@@ -49,26 +49,26 @@ lookup MARK_BASE_abvm {
 	pos base @bGC_dvDDHxA_abvm <anchor 236 640> mark @MC_abvm;
 	pos base @bGC_dvDD_DDA_abvm <anchor 244 640> mark @MC_abvm;
 	pos base @bGC_dvD_NA_abvm <anchor 262 640> mark @MC_abvm;
+	pos base @bGC_dvG_DA_mUU_abvm <anchor 619 640> mark @MC_abvm;
+	pos base @bGC_dvG_DA_mU_abvm <anchor 620 640> mark @MC_abvm;
 	pos base @bGC_dvHA_mU_abvm <anchor 286 640> mark @MC_abvm;
 	pos base @bGC_dvJ_DA_abvm <anchor 684 640> mark @MC_abvm;
 	pos base @bGC_dvJ_DA_mU_abvm <anchor 710 640> mark @MC_abvm;
 	pos base @bGC_dvKA_abvm <anchor 408 640> mark @MC_abvm;
 	pos base @bGC_dvK_KA_abvm <anchor 1008 640> mark @MC_abvm;
 	pos base @bGC_dvLLA_abvm <anchor 615 640> mark @MC_abvm;
-	pos base @bGC_dvL_DA_abvm <anchor 620 640> mark @MC_abvm;
 	pos base @bGC_dvL_DA_mU_abvm <anchor 673 640> mark @MC_abvm;
-	pos base @bGC_dvL_DDA_abvm <anchor 619 640> mark @MC_abvm;
 	pos base @bGC_dvNGA_abvm <anchor 221 640> mark @MC_abvm;
-	pos base @bGC_dvNN_TTA_abvm <anchor 690 640> mark @MC_abvm;
 	pos base @bGC_dvN_DA_abvm <anchor 604 640> mark @MC_abvm;
 	pos base @bGC_dvN_DA_mU_abvm <anchor 633 640> mark @MC_abvm;
 	pos base @bGC_dvN_PHA_abvm <anchor 799 640> mark @MC_abvm;
 	pos base @bGC_dvPHA_abvm <anchor 438 640> mark @MC_abvm;
-	pos base @bGC_dvPH_PHA_abvm <anchor 1096 640> mark @MC_abvm;
+	pos base @bGC_dvPHx_PHxA_abvm <anchor 1096 640> mark @MC_abvm;
 	pos base @bGC_dvP_PHA_abvm <anchor 746 640> mark @MC_abvm;
 	pos base @bGC_dvRA_mUU_abvm <anchor 246 640> mark @MC_abvm;
 	pos base @bGC_dvRxA_abvm <anchor 229 640> mark @MC_abvm;
 	pos base @bGC_dvS_DA_mU_abvm <anchor 704 640> mark @MC_abvm;
+	pos base @bGC_dvS_TTA_abvm <anchor 690 640> mark @MC_abvm;
 	pos base @bGC_dvTTA_abvm <anchor 243 640> mark @MC_abvm;
 	pos base @bGC_dvTTHA_abvm <anchor 233 640> mark @MC_abvm;
 	pos base @bGC_dvTTH_RA_abvm <anchor 249 640> mark @MC_abvm;

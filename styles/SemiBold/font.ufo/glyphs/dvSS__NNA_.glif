@@ -48,32 +48,32 @@
       <point x="180" y="598"/>
     </contour>
     <contour>
-      <point x="584" y="587" type="line"/>
-      <point x="546" y="521"/>
-      <point x="514" y="431"/>
-      <point x="517" y="368" type="curve" smooth="yes"/>
-      <point x="509" y="291"/>
-      <point x="533" y="219"/>
-      <point x="546" y="210" type="curve" smooth="yes"/>
-      <point x="565" y="220"/>
-      <point x="621" y="266"/>
-      <point x="640" y="353" type="curve"/>
-      <point x="655" y="445"/>
-      <point x="659" y="515"/>
-      <point x="654" y="597" type="curve"/>
-      <point x="560" y="596" type="line"/>
-      <point x="534" y="508"/>
-      <point x="524" y="431"/>
-      <point x="524" y="360" type="curve"/>
-      <point x="517" y="283"/>
-      <point x="529" y="192"/>
-      <point x="541" y="182" type="curve"/>
-      <point x="569" y="195"/>
-      <point x="638" y="276"/>
-      <point x="635" y="367" type="curve"/>
-      <point x="641" y="438"/>
-      <point x="663" y="526"/>
-      <point x="679" y="597" type="curve"/>
+      <point x="525" y="597" type="line"/>
+      <point x="429" y="514"/>
+      <point x="371" y="412"/>
+      <point x="371" y="351" type="curve" smooth="yes"/>
+      <point x="371" y="273"/>
+      <point x="458" y="153"/>
+      <point x="538" y="153" type="curve" smooth="yes"/>
+      <point x="621" y="153"/>
+      <point x="763" y="240"/>
+      <point x="784" y="367" type="curve"/>
+      <point x="790" y="452"/>
+      <point x="765" y="527"/>
+      <point x="714" y="610" type="curve"/>
+      <point x="619" y="586" type="line"/>
+      <point x="651" y="516"/>
+      <point x="667" y="449"/>
+      <point x="671" y="377" type="curve"/>
+      <point x="655" y="302"/>
+      <point x="605" y="258"/>
+      <point x="550" y="239" type="curve"/>
+      <point x="513" y="261"/>
+      <point x="496" y="301"/>
+      <point x="490" y="353" type="curve"/>
+      <point x="506" y="430"/>
+      <point x="557" y="515"/>
+      <point x="620" y="584" type="curve"/>
     </contour>
     <contour>
       <point x="1085" y="609" type="line"/>
