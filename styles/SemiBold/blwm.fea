@@ -1,4 +1,4 @@
-# Created: Fri Nov 21 18:11:28 2014
+# Created: Thu Jan  8 19:18:24 2015
 # PS Name: Tillana-SemiBold
 # MM Inst: None
 # exported from noApp
@@ -14,13 +14,13 @@ lookup MARK_BASE_blwm {
 	@bGC_dvKx_PHA_blwm = [dvKx_PHA dvKx_PHxA];
 	@bGC_dvLLA_blwm = [dvLLA dvLL_RA];
 	@bGC_dvL_TTHA_blwm = [dvL_TTHA dvS_TTA];
-	@bGC_dvM_HA_blwm = [dvM_HA dvSS_TTA dvL_DA_mU dvL_DA_mUU];
+	@bGC_dvM_HA_blwm = [dvM_HA dvL_DA_mU dvL_DA_mUU dvSS_TTA];
 	@bGC_dvNGA_blwm = [dvNGA dvDDA dvDDxA dvNG_RA dvNG dvDD];
-	@bGC_dvNN_TTHA_blwm = [dvNN_TTHA dvN_PH_RA];
 	@bGC_dvN_DA_mU_blwm = [dvN_DA_mU dvN_DA_mUU];
 	@bGC_dvN_HA_blwm = [dvN_HA dvS_DA_mU dvS_DA_mUU];
-	@bGC_dvPHA_blwm = [dvPHA dvPHxA dvPH_RA dvPHx_RA];
-	@bGC_dvPH_PHA_blwm = [dvPH_PHA dvPHx_PHxA];
+	@bGC_dvN_PH_RA_blwm = [dvN_PH_RA dvNN_TTHA];
+	@bGC_dvPHA_blwm = [dvPHA dvPHxA dvPHx_RA dvPH_RA];
+	@bGC_dvPHx_PHxA_blwm = [dvPHx_PHxA dvPH_PHA];
 	@bGC_dvP_PHA_blwm = [dvP_PHA dvSS_PHA];
 	@bGC_dvRA_mUU_blwm = [dvRA_mUU dvRA_mU];
 	@bGC_dvTTA_blwm = [dvTTA dvTT_R dvTT];
@@ -38,11 +38,11 @@ lookup MARK_BASE_blwm {
 	pos base @bGC_dvL_TTHA_blwm <anchor 791 4> mark @MC_blwm;
 	pos base @bGC_dvM_HA_blwm <anchor 602 4> mark @MC_blwm;
 	pos base @bGC_dvNGA_blwm <anchor 322 4> mark @MC_blwm;
-	pos base @bGC_dvNN_TTHA_blwm <anchor 819 4> mark @MC_blwm;
 	pos base @bGC_dvN_DA_mU_blwm <anchor 563 4> mark @MC_blwm;
 	pos base @bGC_dvN_HA_blwm <anchor 633 4> mark @MC_blwm;
+	pos base @bGC_dvN_PH_RA_blwm <anchor 819 4> mark @MC_blwm;
 	pos base @bGC_dvPHA_blwm <anchor 459 4> mark @MC_blwm;
-	pos base @bGC_dvPH_PHA_blwm <anchor 1117 4> mark @MC_blwm;
+	pos base @bGC_dvPHx_PHxA_blwm <anchor 1117 4> mark @MC_blwm;
 	pos base @bGC_dvP_PHA_blwm <anchor 767 4> mark @MC_blwm;
 	pos base @bGC_dvRA_mUU_blwm <anchor 256 4> mark @MC_blwm;
 	pos base @bGC_dvTTA_blwm <anchor 344 4> mark @MC_blwm;

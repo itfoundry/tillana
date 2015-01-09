@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dvG_DA_mUU" format="1">
-  <advance width="907"/>
+  <advance width="908"/>
   <outline>
     <contour>
       <point x="548" y="4" type="move" name="blwm"/>
@@ -8,7 +8,7 @@
     <contour>
       <point x="619" y="640" type="move" name="abvm"/>
     </contour>
-    <component base="dvDA_mUU" xOffset="366"/>
+    <component base="dvDA_mUU" xOffset="367"/>
     <component base="dvG"/>
   </outline>
 </glyph>

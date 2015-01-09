@@ -1,4 +1,4 @@
-# Created: Fri Nov 21 18:12:14 2014
+# Created: Thu Jan  8 19:19:00 2015
 # PS Name: Tillana-ExtraBold
 # MM Inst: None
 # exported from noApp
@@ -23,8 +23,8 @@ lookup MARK_BASE_blwm {
 	@bGC_dvNGA_blwm = [dvNGA dvDDA dvDDxA dvNG_RA dvNG dvDD];
 	@bGC_dvN_DA_blwm = [dvN_DA dvM_DA];
 	@bGC_dvN_DA_mU_blwm = [dvN_DA_mU dvN_DA_mUU dvM_DA_mU];
-	@bGC_dvPHA_blwm = [dvPHA dvPHxA dvPH_RA dvPHx_RA];
-	@bGC_dvPH_PHA_blwm = [dvPH_PHA dvPHx_PHxA];
+	@bGC_dvPHA_blwm = [dvPHA dvPHxA dvPHx_RA dvPH_RA];
+	@bGC_dvPHx_PHxA_blwm = [dvPHx_PHxA dvPH_PHA];
 	@bGC_dvP_TTA_blwm = [dvP_TTA dvSS_TTHA];
 	@bGC_dvRA_blwm = [dvRA dvRA_mUU dvRA_mU dvR];
 	@bGC_dvS_DA_mU_blwm = [dvS_DA_mU dvS_DA_mUU];
@@ -51,7 +51,7 @@ lookup MARK_BASE_blwm {
 	pos base @bGC_dvN_DA_blwm <anchor 848 -121> mark @MC_blwm;
 	pos base @bGC_dvN_DA_mU_blwm <anchor 732 8> mark @MC_blwm;
 	pos base @bGC_dvPHA_blwm <anchor 652 8> mark @MC_blwm;
-	pos base @bGC_dvPH_PHA_blwm <anchor 1493 8> mark @MC_blwm;
+	pos base @bGC_dvPHx_PHxA_blwm <anchor 1493 8> mark @MC_blwm;
 	pos base @bGC_dvP_TTA_blwm <anchor 816 8> mark @MC_blwm;
 	pos base @bGC_dvRA_blwm <anchor 350 8> mark @MC_blwm;
 	pos base @bGC_dvS_DA_mU_blwm <anchor 785 8> mark @MC_blwm;

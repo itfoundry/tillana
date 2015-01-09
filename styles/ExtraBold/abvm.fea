@@ -1,4 +1,4 @@
-# Created: Fri Nov 21 18:12:14 2014
+# Created: Thu Jan  8 19:19:00 2015
 # PS Name: Tillana-ExtraBold
 # MM Inst: None
 # exported from noApp
@@ -11,6 +11,7 @@ lookup MARK_BASE_abvm {
 	@bGC_dvDDHA_abvm = [dvDDHA dvDDH_RA];
 	@bGC_dvDDH_DDHA_abvm = [dvDDH_DDHA dvDDH_VA];
 	@bGC_dvD_BA_abvm = [dvD_BA dvD_VA];
+	@bGC_dvD_NA_abvm = [dvD_NA dvD_BHA dvD_RA dvTTH_TTHA dvTTH_VA];
 	@bGC_dvG_DA_mU_abvm = [dvG_DA_mU dvG_DA_mUU];
 	@bGC_dvHA_abvm = [dvHA dvH_RA];
 	@bGC_dvHA_mvR_abvm = [dvHA_mvR dvHA_mU dvHA_mUU dvH];
@@ -18,21 +19,20 @@ lookup MARK_BASE_abvm {
 	@bGC_dvJ_DA_mU_abvm = [dvJ_DA_mU dvJ_DA_mUU];
 	@bGC_dvJ_DDA_abvm = [dvJ_DDA dvNN_DDA];
 	@bGC_dvJ_TTA_abvm = [dvJ_TTA dvN_TTA];
-	@bGC_dvKA_abvm = [dvKA dvKxA dvK_RA dvKx_RA];
+	@bGC_dvKA_abvm = [dvKA dvK_RA dvKxA dvKx_RA];
 	@bGC_dvK_DA_abvm = [dvK_DA dvN_CHA];
 	@bGC_dvKx_PHA_abvm = [dvKx_PHA dvKx_PHxA];
 	@bGC_dvLLA_abvm = [dvLLA dvLL_RA];
-	@bGC_dvNGA_abvm = [dvNGA dvTTA dvDDA dvDA dvDA_mU dvDA_mUU dvDA_mvR dvDDxA dvNG_RA dvTT_TTHA dvTT_RA dvTT_R dvDD_DDA dvDD_DDHA dvDD_RA dvDD_VA dvD_GA dvD_G_RA dvNG dvTT dvDD dvD];
+	@bGC_dvNGA_abvm = [dvNGA dvTTA dvDDA dvDA dvDA_mU dvDA_mUU dvDA_mvR dvDDxA dvD_GA dvD_G_RA dvD dvNG_RA dvTT_TTHA dvTT_RA dvTT_R dvDD_DDA dvDD_DDHA dvDD_RA dvDD_VA dvNG dvTT dvDD];
 	@bGC_dvNN_TTA_abvm = [dvNN_TTA dvNN_TTHA];
 	@bGC_dvN_DA_abvm = [dvN_DA dvM_DA];
 	@bGC_dvN_DA_mU_abvm = [dvN_DA_mU dvN_DA_mUU dvM_DA_mU];
 	@bGC_dvN_D_VA_abvm = [dvN_D_VA dvL_D_RA];
 	@bGC_dvN_PHA_abvm = [dvN_PHA dvN_PH_RA];
-	@bGC_dvPHA_abvm = [dvPHA dvPHxA dvPH_RA dvPHx_RA];
-	@bGC_dvPH_PHA_abvm = [dvPH_PHA dvPHx_PHxA];
+	@bGC_dvPHA_abvm = [dvPHA dvPHxA dvPHx_RA dvPH_RA];
+	@bGC_dvPHx_PHxA_abvm = [dvPHx_PHxA dvPH_PHA];
 	@bGC_dvS_DA_mU_abvm = [dvS_DA_mU dvS_DA_mUU];
-	@bGC_dvTTHA_abvm = [dvTTHA dvRA dvRA_mUU dvRA_mU dvRxA dvDDHxA dvTTH_RA dvD_DA dvTTH dvDDH dvR];
-	@bGC_dvTTH_TTHA_abvm = [dvTTH_TTHA dvD_NA dvD_BHA dvD_RA dvTTH_VA];
+	@bGC_dvTTHA_abvm = [dvTTHA dvRA dvDDHxA dvD_DA dvRA_mUU dvRA_mU dvRxA dvTTH_RA dvTTH dvDDH dvR];
 	@bGC_dvT_KA_abvm = [dvT_KA dvL_DA_mU dvL_DA_mUU];
 	@bGC_dvU_abvm = [dvU dvUU];
 	@bGC_dvvR_abvm = [dvvR dvvRR dvE];
@@ -41,6 +41,7 @@ lookup MARK_BASE_abvm {
 	pos base @bGC_dvDDHA_abvm <anchor 285 628> mark @MC_abvm;
 	pos base @bGC_dvDDH_DDHA_abvm <anchor 206 628> mark @MC_abvm;
 	pos base @bGC_dvD_BA_abvm <anchor 353 628> mark @MC_abvm;
+	pos base @bGC_dvD_NA_abvm <anchor 275 628> mark @MC_abvm;
 	pos base @bGC_dvG_DA_mU_abvm <anchor 740 628> mark @MC_abvm;
 	pos base @bGC_dvHA_abvm <anchor 271 628> mark @MC_abvm;
 	pos base @bGC_dvHA_mvR_abvm <anchor 291 628> mark @MC_abvm;
@@ -59,10 +60,9 @@ lookup MARK_BASE_abvm {
 	pos base @bGC_dvN_D_VA_abvm <anchor 718 628> mark @MC_abvm;
 	pos base @bGC_dvN_PHA_abvm <anchor 956 628> mark @MC_abvm;
 	pos base @bGC_dvPHA_abvm <anchor 520 628> mark @MC_abvm;
-	pos base @bGC_dvPH_PHA_abvm <anchor 1361 628> mark @MC_abvm;
+	pos base @bGC_dvPHx_PHxA_abvm <anchor 1361 628> mark @MC_abvm;
 	pos base @bGC_dvS_DA_mU_abvm <anchor 822 628> mark @MC_abvm;
 	pos base @bGC_dvTTHA_abvm <anchor 265 628> mark @MC_abvm;
-	pos base @bGC_dvTTH_TTHA_abvm <anchor 275 628> mark @MC_abvm;
 	pos base @bGC_dvT_KA_abvm <anchor 778 628> mark @MC_abvm;
 	pos base @bGC_dvU_abvm <anchor 298 628> mark @MC_abvm;
 	pos base @bGC_dvvR_abvm <anchor 478 628> mark @MC_abvm;

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dvK_DA_mU" format="1">
-  <advance width="848"/>
+  <advance width="939"/>
   <outline>
     <contour>
       <point x="533" y="0" type="move" name="blwm"/>
@@ -9,7 +9,7 @@
       <point x="630" y="649" type="move" name="abvm"/>
     </contour>
     <component base="dvK"/>
-    <component base="dvDA_mU" xOffset="379"/>
+    <component base="dvDA_mU" xOffset="470"/>
   </outline>
   <lib>
     <dict>
